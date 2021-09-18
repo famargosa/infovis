@@ -1,0 +1,5 @@
+visual encodings 
+stream graph
+tem-and-leaf plot
+box-and-whisker plot
+flow map
