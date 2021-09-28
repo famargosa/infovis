@@ -9,4 +9,4 @@
 
 [MakeOverMonday 2021 week37](https://famargosa.github.io/infovis/mon2021w37.html)
 
-[MakeOverMonday 2021 week38-flourish](https://famargosa.github.io/infovis/mon2021w38.html)
+[MakeOverMonday 2021 week38-flourish](https://famargosa.github.io/infovis/mom2021w38.html)
